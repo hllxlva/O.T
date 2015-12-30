@@ -1,0 +1,45 @@
+body{
+	background-color: #FBD389;
+	color: #000;
+}
+#heading {
+    text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+#profile{
+	/*width: 800px;*/
+    background: #f7f7f7;
+    text-align:left;
+	margin-left:50px;
+	margin-right:50px;
+}
+#Introduction{
+	/*width: 700px;*/
+	margin-left:50px;
+	margin-right:50px;
+	text-align:left;
+}
+h1{
+	font-size:21.68px;
+	height:22px;
+}
+.Phonetic{
+	font-size:9.85px;
+	height:10px;
+}
+h4{
+	color: #f7f7f7;
+}
+dl {
+	/*width:700px;*/
+	margin-left:25px;
+	margin-right:25px;
+
+}
+dt {
+  float:left;
+}
+dd {
+  margin-left:50px;
+}
